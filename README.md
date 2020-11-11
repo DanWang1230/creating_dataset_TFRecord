@@ -2,7 +2,7 @@
 
 This repo is part of my [capstone project](https://github.com/DanWang1230/Capstone_Programming_A_Self_Driving_Car) in Udacity's nano degree of self-driving car. The goal is to create my own dataset using images from the simulator and real site. The created dataset is then used for [model training](https://github.com/DanWang1230/model_training_object_deteciton_API/blob/main/README.md).
 
-I found [this](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone) and [this](https://github.com/vatsl/TrafficLight_Detection-TensorFlowAPI) github repos and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful.
+I found [Repo 1](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone), [Repo 2](https://github.com/vatsl/TrafficLight_Detection-TensorFlowAPI), and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful.
 
 ---
 
